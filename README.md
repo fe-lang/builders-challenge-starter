@@ -5,6 +5,20 @@ three weeks to build something with [Fe](https://fe-lang.org) and compete for
 $5,000 in prizes. It contains a small Fe project with tests, a CI workflow, and
 a template for your final README.
 
+## Register your project by November 17
+
+> [!IMPORTANT]
+> **Registration is required to submit.** Register by **November 17, 2026,
+> at 23:59 UTC**. This deadline is firm.
+>
+> **[Register your project](https://docs.google.com/forms/d/e/1FAIpQLSehDUUbqfQt67Ecy21zIsOFN7pp4orx9Ko9DKCWcDkjhEUVBg/viewform)**
+
+You don't need a finished project or a final idea to register: a project name,
+a one-sentence idea, your team, and a contact email are enough, and your idea
+can change as you build. Registering early is best. You will receive your
+project ID and the private submission link by email, and you need that link
+to submit your project.
+
 ## Dates
 
 All times are UTC.
