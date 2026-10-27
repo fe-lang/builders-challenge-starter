@@ -45,8 +45,7 @@ rules.
    ```
 
 4. [Register your project](https://docs.google.com/forms/d/e/1FAIpQLSehDUUbqfQt67Ecy21zIsOFN7pp4orx9Ko9DKCWcDkjhEUVBg/viewform)
-   by November 17. Your idea can still change after you register. You will
-   receive your project ID and a private submission link by email.
+   by November 17, if you haven't already.
 
 ## What's inside
 
@@ -68,7 +67,7 @@ start.
 ## Before you submit
 
 Submit by **November 24, 2026, at 23:59 UTC** with the personal submission link
-from your registration email. Your submission needs:
+from your registration email. Without a registration, you can't submit. Your submission needs:
 
 - [ ] A public GitHub repository with an OSI-approved license. You can keep the
       Apache-2.0 `LICENSE` or replace it with another OSI-approved license.
